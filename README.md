@@ -1,16 +1,12 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**Nicklynz/Nicklynz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## A quick description about me
+  A 14 year old boy in high school with passion for gaming and coding (Maybe even too much so.)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Some bullet points
+- 🔭 I’m currently working on bettering myself as a whole
+- 🌱 I’m currently learning Python
+- 💬 Ask me about Gaming
+- 📫 How to reach me: don't
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I have terrible handwriting
